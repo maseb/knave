@@ -2,5 +2,11 @@
 name = "knave"
 version = "0.1.0"
 authors = ["maseb <mason.browne@gmail.com>"]
+readme = "README.md"
+license = "UPL-1.0"
+license-file = "LICENSE.md"
+
 
 [dependencies]
+actix-web = "0.6"
+actix = "0.5"
