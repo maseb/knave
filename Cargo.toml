@@ -1,0 +1,6 @@
+[package]
+name = "knave"
+version = "0.1.0"
+authors = ["maseb <mason.browne@gmail.com>"]
+
+[dependencies]
